@@ -1,0 +1,2 @@
+{"timestamp": "2026-04-06T22:40:53.223907", "input": {"size": 120.0, "rooms": 3, "age": 10.0, "distance": 5.0, "garage": 1}, "prediction": 356913.11234992003, "drift_detected": [false, false, false, false, false]}
+{"timestamp": "2026-04-06T22:55:09.351208", "input": {"size": 120.0, "rooms": 3, "age": 10.0, "distance": 5.0, "garage": 1}, "prediction": 356913.11234992003, "drift_detected": [false, false, false, false, false]}
